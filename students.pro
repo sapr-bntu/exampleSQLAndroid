@@ -50,5 +50,7 @@ OTHER_FILES += \
     android/src/org/kde/necessitas/ministro/IMinistroCallback.aidl \
     android/src/org/kde/necessitas/ministro/IMinistro.aidl \
     android/AndroidManifest.xml \
-    android/version.xml
+    android/version.xml \
+    readme.md
+
 
