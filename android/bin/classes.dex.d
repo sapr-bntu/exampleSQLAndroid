@@ -1,0 +1,24 @@
+/home/ferz/PROJECTS/StudentsA/android/bin/classes.dex : \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/origo/QtApplication.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/origo/QtActivity$3$1$1.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/origo/QtActivity$4.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/origo/QtActivity$5.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/origo/QtActivity$6.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/origo/QtActivity.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/origo/QtApplication$InvokeResult.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/origo/QtActivity$1.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/origo/QtActivity$2.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/origo/QtActivity$3$1.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/origo/QtActivity$3.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/example/students/R$attr.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/example/students/R$string.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/example/students/R$drawable.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/example/students/R.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/example/students/R$layout.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/example/students/R$array.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub$Proxy.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/ministro/IMinistro.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub$Proxy.class \
+/home/ferz/PROJECTS/StudentsA/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub.class \
